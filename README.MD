@@ -34,6 +34,7 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+E esse foi o resultado: https://www.notion.so/PAS-Podcast-AI-Studio-16553f84b30f802d8e4bfaae352009dd 
 
 ## 💻 Tecnologias utilizadas no projeto
 
